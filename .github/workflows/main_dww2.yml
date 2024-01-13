@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'DWW2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A150B2211E534CB487957EE82309C781 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0942BB003B442E08638E682B27E7915 }}
